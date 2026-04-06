@@ -33,25 +33,25 @@ Website successfully deployed and accessed via public IP.
 ## 📸 Screenshots
 
 ### 1. EC2 Instance Running
-![EC2](1-ec2.png)
+![EC2](EC2.png)
 
 ### 2. SSH Connection (Browser)
-![SSH](2-ssh.png)
+![SSH](SSH.png)
 
 ### 3. System Update
-![Update](3-update.png)
+![Update](Update.png)
 
 ### 4. Nginx Installation
 ![Nginix Install](4-nginx-install.png)
 
 ### 5. Nginx Running
-![Nginx Running](5-nginx-running.png)
+![Nginx Running](Nginx Running.png)
 
 ### 6. Default Nginx Page
-![Default Page](6-default-page.png)
+![Default Page](Default Page.png)
 
 ### 7. Custom Website Output
-![Custom Page](7-custom-page.png)
+![Custom Page](Custom Page.png)
 
 ---
 
