@@ -36,22 +36,22 @@ Website successfully deployed and accessed via public IP.
 ![EC2](EC2.png)
 
 ### 2. SSH Connection (Browser)
-![SSH](SSh.png)
+![SSH](SSH.png)
 
 ### 3. System Update
 ![Update](Update.png)
 
 ### 4. Nginx Installation
-![Nginix Install](Nginx Install.png)
+![Nginix Install](Nginx-Install.png)
 
 ### 5. Nginx Running
-![Nginx Running](Nginx Running.png)
+![Nginx Running](Nginx-Running.png)
 
 ### 6. Default Nginx Page
-![Default Page](Default Page.png)
+![Default Page](Default-Page.png)
 
 ### 7. Custom Website Output
-![Custom Page](Custom Page.png)
+![Custom Page](Custom-Page.png)
 
 ---
 
